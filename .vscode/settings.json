@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5f5ffd21-08fe-4f11-8bd3-e645488c1762/microsoft.web/sites/subscriptions/5f5ffd21-08fe-4f11-8bd3-e645488c1762/resourceGroups/dti-poc-applicationinsights/providers/Microsoft.Web/sites/dti-poc-applicationinsights"
+}
